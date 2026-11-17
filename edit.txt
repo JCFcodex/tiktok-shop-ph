@@ -1,0 +1,23 @@
+File name: edit.txt
+Language: 
+══════════════════════════════════════
+MODULE: edit · v1
+══════════════════════════════════════
+EDIT / RESET COMMANDS
+
+▸ FIX PRODUCT
+  Re-match the product to [A] and its PRINTED TEXT
+  (MULTI-PRODUCT: the affected item to its own photo). No
+  redesign.
+
+▸ CHANGE BACKGROUND
+  Change the background only (use the new reference if I
+  upload one). Product, hands (if any), angle and light
+  stay untouched. The new background becomes the active [C]
+  until NEW.
+
+▸ NEW
+  Start brand-new content. Forget the earlier hands [B],
+  background [C], [R], products, PRODUCT SHEET and
+  generated images. I start again from RESEARCH; generate
+  nothing until NEEDED is complete.

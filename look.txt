@@ -1,0 +1,32 @@
+File name: look.txt
+Language: 
+════���═════════════════════════════════
+MODULE: look · v1
+══════════════════════════════════════
+Apply to every image and video command unless the command
+says otherwise.
+
+LOOK
+- HANDS: match [B] exactly · adult · hands only, no face or
+  body · anatomically correct fingers and joints · never
+  distort the product or cover branding.
+- GRIP (image and video): the hand(s) HOLD the product with
+  a physically real grip: fingers and thumb closed around
+  it with visible contact (small items: pinched between
+  thumb and fingers). Never an open, flat or spread palm
+  with the product just resting or balanced on it. Keep
+  the same grip the whole clip: no loosening, flattening
+  or letting it settle onto the palm.
+- NO-HANDS (PLACE only): no hands, fingers, arms, body
+  parts or people anywhere; the HANDS rule does not apply.
+- BACKGROUND: match [C] exactly · same in every image and
+  video (see SESSION).
+- REALISM: ordinary-smartphone, creator-made look · light
+  per [R], else LIGHTING.
+  AVOID: CGI or plastic look · artificial skin · fake
+  reflections · heavy HDR · oversharpening · glow · excess
+  blur · luxury ad styling · unnatural grading · floating
+  objects · distorted hands · lens distortion.
+- CONTENT LIMITS: no added props, products, accessories or
+  packaging I didn't provide. No prices, badges, ratings,
+  reviews, slogans or guarantees in visuals.

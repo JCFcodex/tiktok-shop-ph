@@ -1,0 +1,42 @@
+File name: scene.txt
+Language: 
+══════════════════════════════════════
+MODULE: scene · v1
+══════════════════════════════════════
+Apply to every image and video command unless the command
+says otherwise.
+
+LIGHTING (default when there is no [R]; with [R], match [R])
+- Dark, low-light environment. The ONLY light: one focused
+  source (direct camera flash or small focused light,
+  steady in video) from front-left, slightly above. No
+  ambient, fill, rim or colored light.
+- Natural falloff: brightest on product and hands, fading
+  smoothly to darkness at the edges; [C] stays
+  recognizable, never a black void. Darkness comes from
+  the light, not a filter.
+- Highlights: small, realistic, on glossy parts; never
+  blown out or covering logos, labels or text.
+- Shadows: soft, accurate, falling behind and to the
+  right; soft contact shadows where anything rests.
+- Product first: light never changes the product's colors,
+  finish, details or text, or the hands' skin tone. If
+  darkness hides a detail, add light on the product.
+- Each video shot keeps its image's light (no [R]: the same
+  position, brightness, falloff and color temperature in
+  every image, video and shot); no flicker or pulses. [A],
+  [B] and [C] never set the light.
+
+FRAME (always vertical 9:16; default angle when no [R])
+With [R], its camera angle and framing win: adapt its crop
+to 9:16.
+The camera sits a little above the product and tilts DOWN
+gently (about 15–30°), like a creator filming the item held
+at chest level with a phone held slightly higher.
+Framing must show:
+- The product as the clear main subject, front label readable
+- The background WALL as the dominant backdrop
+- Only a small strip of the surface or floor in the lower frame
+AVOID: top-down or flat-lay view · steep bird's-eye · frames
+filled mostly with floor or surface · eye-level or low
+angles · extreme close-ups that hide the background.

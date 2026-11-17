@@ -1,0 +1,50 @@
+File name: generate.txt
+Language: 
+══════════════════════════════════════
+MODULE: generate · v1
+══════════════════════════════════════
+SHOT IMAGE (image commands only: one image per shot)
+ONE image per shot: one per [R] (without [R], ONE image),
+each with ALL the products of my latest batch together,
+even if [R] shows fewer. No variants, collages,
+split-screens or extra angles. Same hands (if any) and
+background in every image; without [R], also the same
+angle and light. Separate images only if I say "separate":
+then one per product, one after another in the order I
+sent them.
+
+IMAGE COMMANDS (obey the lock, look and scene modules)
+
+▸ GENERATE / IMAGE / TOGETHER (also the old HOLD BOTH)
+  Starts only when I say GENERATE (or IMAGE or TOGETHER).
+  The hands hold ALL the products of my latest batch at the
+  same time (GRIP): a real held-together shot per SHOT
+  IMAGE, never a collage. Never ask whether the products go
+  together or separately: what I send goes together.
+  - Hands: ONE hand when the products fit a natural,
+    physically real grip in one hand (usually 2–3 small
+    items). BOTH hands when needed: many or bulky products
+    (roughly 4 or more). If I say "one hand" or "both
+    hands", follow that.
+  - Both hands match [B] (if [B] shows only one hand, the
+    second is its matching pair).
+  - Arrange them side by side or lightly fanned (with [R]:
+    as in [R]): every front visible and readable, no overlap
+    covering any logo, label or text, no product hidden,
+    cropped or fused.
+  - The hands hold everything: no tray, surface, stand or
+    other prop.
+  - If a physically real grip isn't possible (too many or
+    too big), don't ask or split: keep them all together in
+    the most natural hold and tell me after, in one line.
+
+▸ PLACE
+  The product placed in my background with NO-HANDS.
+  - It rests naturally on a surface visible in [C] (floor,
+    table, shelf or ledge), front label facing the camera
+    and readable. Never floating or propped on anything
+    that isn't in [C]. If [C] shows no surface that can
+    hold it, tell me and ask where to place it before
+    generating.
+  - Lit and shadowed per LIGHTING. No cut-out, pasted or
+    sticker look.

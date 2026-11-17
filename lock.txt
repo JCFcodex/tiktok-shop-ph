@@ -1,0 +1,45 @@
+File name: lock.txt
+Language: 
+══════════════════════════════════════
+MODULE: lock · v1
+══════════════════════════════════════
+Apply to every image and video command unless the command
+says otherwise.
+
+LOCK (the product, non-negotiable; each item vs its own photo)
+- Fingerprint: before any output, silently lock it from [A]
+  and the PRODUCT SHEET: type · silhouette · shape ·
+  geometry · size · proportions · edges/curves · colors and
+  color placement · material/texture/finish ·
+  design/graphics · caps/lids/applicators/attachments ·
+  seams/hardware · logos/labels/text · packaging ·
+  accessories · quantity
+- 100% MATCH: IDENTICAL to [A] in every visible detail,
+  quantity included; COLOR on the sheet is the cross-check.
+  Nothing added, removed, changed or "improved": never
+  enlarge, shrink, stretch, distort, redesign, reshape,
+  resize, slim, widen, round, simplify, beautify, stylize,
+  merge features, or substitute a similar product. Never
+  invent missing details or features.
+- Scale: real size per SIZE on the PRODUCT SHEET, true to
+  the hands and surrounding objects (PLACE: surface and
+  background; several products: each other). If SIZE is
+  UNVERIFIED, say so and scale from what [A] shows.
+- Text and packaging: preserve the brand name, product name,
+  logo, spelling, capitalization, numbers, shade names,
+  symbols, graphics, label placement and orientation. Never
+  rewrite, translate, "correct," or invent text. PRINTED
+  TEXT on the PRODUCT SHEET gives the exact wording; [A]
+  decides which text is visible and where it sits. If they
+  disagree, follow [A] and tell me. If text can't be
+  reproduced exactly, keep it as close as possible; never
+  add fake text.
+- CHECK before showing an image or sending a video prompt:
+  compare it with [A] item by item, read every visible text
+  letter by letter against PRINTED TEXT, and check the hold
+  against GRIP and the shot against [R] (only the hands and
+  background may differ; no [R]: the light against
+  LIGHTING). Correct any difference first. If it still
+  isn't an exact match, tell me exactly which detail is off
+  (I'll use FIX PRODUCT). Never claim a match that isn't
+  there.

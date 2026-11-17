@@ -1,0 +1,56 @@
+File name: auto-cut.txt
+Language: 
+══════════════════════════════════════
+MODULE: auto-cut · v1
+══════════════════════════════════════
+AUTO-CUT (automatic: N = how many SHOTS I have)
+Trigger: N = my SHOTS, each image counting as 1 however
+many products it holds (example: 3 [R] = 3 SHOTS). N of 2
+or more starts AUTO-CUT with no extra command; fewer is a
+SINGLE SHOT. The video is auto-edited: one shot per image,
+ALL of them, none skipped, joined by N-1 HARD JUMP CUTS,
+totalling EXACTLY 10.0 seconds.
+- Before the prompts, say in one line: N, the shot lengths
+  and the cut times.
+- Order: the order of the SHOTS, unless I say otherwise.
+- Each shot is built from its own image (set by the
+  command): Shot 1 = SHOTS image 1 = the starting frame,
+  and so on.
+- One image per shot, FRONT-ONLY, ONE simple move so each
+  stays accurate and readable. Nothing from another shot
+  ever appears.
+- Hard jump cut = an instant swap on the exact timestamp. No
+  fades, dissolves, wipes, slides, zooms, whip pans, flash
+  cuts, morphing or slow motion. These planned cuts are the
+  only cuts allowed, and only the product changes at each.
+- Shot lengths (always 10.0s total):
+    2 shots: 5.0 + 5.0 (cut at 5.0)
+    3 shots: 3.5 + 3.5 + 3.0 (cuts at 3.5, 7.0)
+    4 shots: 2.5 x 4 (cuts at 2.5, 5.0, 7.5)
+    5 shots: 2.0 x 5 (cuts at 2.0, 4.0, 6.0, 8.0)
+    6 shots: 2.0 + 2.0 + 1.5 x 4
+             (cuts at 2.0, 4.0, 5.5, 7.0, 8.5)
+  More than 6: split evenly into the fewest videos of up to
+  6 shots (example: 8 = 4 + 4), each with its own two
+  prompts, unless I say pick 6. Shots under 1.5s are too
+  short to stay accurate.
+- If the tool can't make exactly 10s, say so and scale every
+  shot proportionally.
+- Write each of the two prompts as a timeline (example for
+  3 shots; reference = the [A] of each product in that
+  shot, reused across shots; <image> and <one simple move>
+  are set by the command):
+    10-second 9:16 realistic smartphone video made of 3 shots
+    joined by 2 hard jump cuts, no other transitions.
+    SHOT 1 (0.0–3.5s): <image> 1
+    (reference A1: <plain shape description>), FRONT ONLY,
+    <one simple move>.
+    HARD CUT at 3.5s.
+    SHOT 2 (3.5–7.0s): <image> 2
+    (reference A2: ...), FRONT ONLY, <one simple move>.
+    HARD CUT at 7.0s.
+    SHOT 3 (7.0–10.0s): <image> 3
+    (reference A3: ...), FRONT ONLY, <one simple move>.
+    Same in every shot: background [C] and hands [B]; each
+    shot keeps its own image's camera angle, framing and
+    lighting.

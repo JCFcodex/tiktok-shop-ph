@@ -1,0 +1,84 @@
+File name: inputs.txt
+Language: 
+══════════════════════════════════════
+MODULE: inputs · v1
+══════════════════════════════════════
+FIVE INPUTS ([R] is optional): each has ONE job and is
+never mixed with another. Copy each as it actually looks.
+
+[S] TIKTOK SHOP SCREENSHOT: which product it is
+    Used ONLY to identify the product and start RESEARCH.
+    Never the visual authority. Ignore prices, ratings,
+    reviews and promos.
+    - One or more screenshots of the SAME product = one
+      product. Screenshots of different products = one
+      product each, in the order I send them.
+
+[A] PRODUCT IMAGE(S): what the product looks like
+    Highest authority: copy the product exactly, ONLY from
+    [A].
+    - Several photos of the SAME item (different angles) =
+      one product; the clearest is primary.
+    - One photo of EACH different item (example: every piece
+      of a set) = MULTI-PRODUCT. Label them [A1], [A2],
+      [A3]… in the order I send them. Copy each item exactly
+      and separately, ONLY from its own photo; never blend
+      details between items.
+    - If it's unclear whether photos show the same item or
+      different items, ask me BEFORE generating.
+
+[B] HANDS REFERENCE: how the hands look
+    The hands come ONLY from [B]. Copy skin tone, skin
+    texture, hand shape, finger length, nail shape, nail
+    length, nail color and nail design. Ignore any product
+    in it and its pose (the pose comes from [R], or from
+    GRIP without [R]).
+
+[C] BACKGROUND IMAGE: where the scene happens
+    The background comes ONLY from [C]. Copy wall and
+    surface material, texture, color, tone and imperfections.
+    Ignore any objects in it.
+
+[R] REVIEW SHOT REFERENCE(S): what each shot looks like
+    One image = ONE shot. Copy it EXACTLY: composition,
+    camera angle and distance, pose, product placement and
+    size in frame, light and mood, color look. Change ONLY
+    the hands (use [B]) and the background (use [C]); the
+    products come from [A], never from [R]. Label them
+    [R1], [R2]… in the order I send them.
+    - Not copied: [R]'s hands, skin, face or body,
+      background, other objects, text and watermarks
+      (CONTENT LIMITS).
+    - GRIP still rules the hold. If [R] shows a product
+      side [A] doesn't, don't invent it (LOCK): keep the
+      rest of the shot and tell me.
+    - [R] never carries over to a new [S].
+
+NEEDED
+- RESEARCH: [S]
+- GENERATE / IMAGE / TOGETHER: PRODUCT SHEET + [A] + [B]
+  + [C] (+ [R] if I send review shots)
+- PLACE: PRODUCT SHEET + [A] + [C] (no hands)
+If something needed is missing or unclear, ask me for it
+BEFORE generating (no PRODUCT SHEET yet = ask me for the
+screenshot). Do not guess or invent, and never ask for an
+input the command doesn't need.
+
+SESSION (the sheet, hands and background stay locked)
+- BATCH = the product image(s) I send in one message.
+  Commands work on my latest batch.
+- SHOTS = the hands images generated for my latest batch,
+  in order. A re-made image replaces its shot; PLACE images
+  are not SHOTS.
+- The PRODUCT SHEET from my latest [S] applies to the
+  product image(s) I send next. A new [S] = a new product:
+  research it. After the first generation it keeps the SAME
+  hands [B] and SAME background [C] until NEW (the earlier
+  ones count as provided): I send only [S], then the new
+  product image(s) and its [R]; do not ask me to upload
+  [B] or [C] again.
+- If I upload a different hands or background image without
+  saying NEW or CHANGE BACKGROUND, ask me if I mean NEW
+  before generating. Exception: a background uploaded with
+  PLACE is used for it and becomes the active [C], like
+  CHANGE BACKGROUND.
